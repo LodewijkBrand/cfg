@@ -1,0 +1,13 @@
+# Requirements
+ - `git`
+ - `curl`
+
+## Install
+
+Install the config tracker in `$HOME` by running:
+
+```bash
+curl -Lks TODO
+```
+
+## Notes
