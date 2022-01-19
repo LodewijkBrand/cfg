@@ -1,4 +1,14 @@
-# Requirements
+# Lou Brand's Dotfiles
+
+Welcome to the README.md for Lou's dotfiles! This README can generally be
+ignored unless you want to modify system preferences/configurations on this
+system or on GitHub.
+
+Note: "dotfiles" provide Linux package configurations. Examples include 
+`~/.bashrc`, `~/.vimrc`, etc.
+
+## Requirements
+
  - `git`
  - `curl`
 
